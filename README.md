@@ -1,6 +1,6 @@
 # QtScrcpy-Plus
 
-An enhanced fork of [QtScrcpy](https://github.com/barry-ran/QtScrcpy) focused on FPS game usability — with bounded mouse movement, dual-touch recentering, a flexible multi-eye system, and stable audio streaming.
+An enhanced fork of [QtScrcpy v3.3.3](https://github.com/barry-ran/QtScrcpy) focused on FPS game usability — with bounded mouse movement, dual-touch recentering, a flexible multi-eye system, and stable audio streaming.
 
 **All changes are client-side only.** The scrcpy-server on the Android device is unchanged — no root, no APK installation, no device modification required.
 
