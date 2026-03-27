@@ -335,6 +335,14 @@ For Linux build instructions, see the [original project](https://github.com/barr
 
 ---
 
+## Support
+
+If this project helped you, consider supporting its development:
+
+[![Donate](https://img.shields.io/badge/Donate-Airtm-00C896?style=for-the-badge)](https://airtm.me/abdulrah382nidxw)
+
+---
+
 ## Credits
 
 This is a fork of [QtScrcpy](https://github.com/barry-ran/QtScrcpy) by [Barry](https://github.com/barry-ran), which is based on [scrcpy](https://github.com/Genymobile/scrcpy) by [Genymobile](https://github.com/Genymobile).
